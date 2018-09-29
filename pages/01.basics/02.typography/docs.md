@@ -5,6 +5,9 @@ taxonomy:
 visible: true
 ---
 
+## Typeface
+At the heart of good typography is a good typeface. We use **Fira Sans** for all headings and paragraphs.
+
 ## Headings
 
 # h1 Heading
@@ -25,7 +28,7 @@ HTML:
 <h6>h6 Heading</h6>
 ```
 
-## Comments
+## Paragraphs
 
 Comments should be HTML compatible
 
