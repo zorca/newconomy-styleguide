@@ -7,6 +7,7 @@ visible: true
 
 ## Typeface
 At the heart of good typography is a good typeface. We use **Fira Sans** font for all headings and paragraphs.
+
 For special UI elements we use **Titillium Web** font.
 
 ## Headings
