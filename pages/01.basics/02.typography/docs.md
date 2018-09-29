@@ -25,10 +25,6 @@ HTML:
 <h6>h6 Heading</h6>
 ```
 
-<br>
-<br>
-<br>
-
 ## Comments
 
 Comments should be HTML compatible
