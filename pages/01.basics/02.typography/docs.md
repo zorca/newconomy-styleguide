@@ -5,8 +5,6 @@ taxonomy:
 visible: true
 ---
 
-The general principle is to develop DRY (Don't Repeat Yourself) code, built around reusable components and patterns.
-
 ## Headings
 
 # h1 Heading
