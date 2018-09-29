@@ -32,10 +32,6 @@ HTML:
 
 ## Paragraphs
 
-## Unordered List
-
-## Ordered List
-
 ## Blockquotes
 
 ## Horizontal Rules
