@@ -26,6 +26,16 @@ HTML:
 <h5>h5 Heading</h5>
 <h6>h6 Heading</h6>
 ```
+or:
+
+```html
+<div class="h1">h1 Heading</div>
+<div class="h2">h2 Heading</div>
+<div class="h3">h3 Heading</div>
+<div class="h4">h4 Heading</div>
+<div class="h5">h5 Heading</div>
+<div class="h6">h6 Heading</div>
+```
 
 <br>
 <br>
